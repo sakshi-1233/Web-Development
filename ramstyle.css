@@ -1,0 +1,36 @@
+body{
+	/*background-image:url("om2.jpg");*/
+	background-color:black;
+	background-size:cover;
+	background-attachment:fixed;
+
+}
+div{
+	padding:center;
+	width:200px;
+	height:30px;
+	position:bottom;
+	background-color:yellow;
+	text-decoration:none;
+}
+div a{
+	text-decoration:none;
+	font-size:20px;
+	font-color:black;
+	
+}
+.container{
+	position:relative;
+	top:700px;
+	left:50%;
+}
+p{
+	margin-left:100px;
+	margin-right:100px;
+}
+ div a{
+	font-color:black;
+}
+p1{
+	
+}
